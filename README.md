@@ -1,2 +1,2 @@
-# Human movement data capture script providing mean and standard deviation for particular movements
+# Human movement data capture script providing mean and standard deviation for particular actions
 #This script extracts a cleaned dataset from the "Human Activity Recognition Using Smartphones Data Set", University of California Irvine, Machine Learning Repository. 30 volunteers wore a Samsung Galaxy S smartphone attached to their waist. Data was collected from the embedded accelerometer and gyroscope of the smartphones.
